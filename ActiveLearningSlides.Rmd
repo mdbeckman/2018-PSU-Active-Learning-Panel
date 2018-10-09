@@ -8,7 +8,11 @@ output: slidy_presentation
 ---
 
 
-# Link to resources
+# Hands-on with technology *during* class.
+
+
+# Let's try it
+
 
 ### Work with a partner to access this link and/or QR code (they're the same)
 
@@ -38,3 +42,21 @@ Here's what we did:
 
 
 Alternatively: you could post the link in Canvas, but that assumes they already have the Canvas app if you expect some to use Smartphones.  
+
+
+# Hands-on with technology *during* class
+
+- Large class (225 students): *redeem the smartphone*
+    - QR codes they can scan from their seat
+    - shortened URL's
+    - Google Forms for data entry + live analysis
+    - PollEverywhere live texting inbox for Q&A
+    - Web applets that illustrate statistics concepts
+        - <http://www.lock5stat.com/StatKey/>
+
+- Small class (30 students): *web-based tools w/ laptops*
+    - establish pairs or small groups 
+    - chromebook supplement (if needed?)
+    - web-based platform for statistical programming
+        - <http://rstudio.aws.science.psu.edu>
+

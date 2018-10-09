@@ -1,5 +1,5 @@
 ---
-title: "Active Learning Panel"
+title: "Active Learning Panel Notes"
 author: "Matthew Beckman"
 date: "10/9/2018"
 output: pdf_document
