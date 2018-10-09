@@ -10,16 +10,31 @@ output: slidy_presentation
 
 # Link to resources
 
+### Work with a partner to access this link and/or QR code (they're the same)
+
+<br>
+
+### Link: <https://bit.ly/2NwXC0g> 
+
+(Note: that's a zero near the end...)
+
+<br> 
+
+### QR code:
+
+![](QRcode.png)
 
 
+# Success!
 
-# You found them!
+Here's what we did:
 
-Here's what I did:
-
-1. identify target URL that I want my audience to have
-2. generate QR code for that URL ()
-3. use bit.ly to generate short link to that URL ()
+1. identify any target URL that we want the audience to have:
+    - <https://mdbeckman.github.io/2018-PSU-Active-Learning-Panel/ActiveLearningSlides.html#(3)>
+    - the full URL is too complicated...
+2. generate QR code for that URL (e.g. <https://www.qr-code-generator.com/>)
+3. use free service to generate shorter link to that URL (e.g. <https://bitly.com/>)
 4. put it on the screen!
+
 
 Alternatively: you could post the link in Canvas, but that assumes they already have the Canvas app if you expect some to use Smartphones.  
