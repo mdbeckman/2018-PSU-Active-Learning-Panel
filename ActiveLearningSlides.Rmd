@@ -1,0 +1,17 @@
+---
+title: "Active Learning Panel"
+author: | 
+    | Matthew Beckman
+    | Department of Statistics  
+date: "October 9, 2018"
+
+output: slidy_presentation
+---
+
+
+# Link to resources
+
+![]()
+
+[]()
+
