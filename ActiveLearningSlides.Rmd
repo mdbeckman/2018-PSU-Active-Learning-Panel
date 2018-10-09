@@ -11,9 +11,6 @@ output: slidy_presentation
 # Hands-on with technology *during* class.
 
 
-# Let's try it
-
-
 ### Work with a partner to access this link and/or QR code (they're the same)
 
 <br>
