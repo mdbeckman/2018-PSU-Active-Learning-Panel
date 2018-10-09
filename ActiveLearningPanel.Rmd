@@ -1,0 +1,100 @@
+---
+title: "Active Learning Panel"
+author: "Matthew Beckman"
+date: "10/9/2018"
+output: pdf_document
+---
+
+### Format
+
+A representative from TLT will open up the session. Kathy will then facilitate the welcome to the audience and set-up an opportunity for each of you to introduce yourself. Kathy will lead each of you through an opportunity to share out on the following questions. This can be done verbally and/or using visuals to aid your explanation and each of you will have about 10 minutes to share.
+
+### Top 3 Active Learning Activities
+
+*Q: Think about the range of active learning activities you engage your students in -- across courses, levels, contexts. Please share what would you say are your “top 3”? (What criteria do you have in your mind when you select the ones that emerge at the “top”? In other words, what makes an active learning strategy good?)*
+
+A: Honestly, Hard to pin down a top 3 because I teach a fairly wide variety of courses (large/small; intro/advanced/MS) and different things are more or less appropriate in different contexts.  
+
+1. Think-pair-share
+2. Flipped classroom (not AL per se, but *makes room* for AL during class time)
+3. Hands-on with technology during class
+
+
+### Identify one of the three to share in more detail on how you implemented in your class.
+
+Hands-on with technology *during* class.
+
+- Large intro: *redeem the smartphone*
+    - QR codes they can scan from their seat
+    - shortened URL's
+    - Google Forms for data entry + live analysis
+    - PollEverywhere live texting inbox for Q&A
+    - Web applets that illustrate statistics concepts
+
+- Small class: *web-based tools w/ laptops*
+    - establish pairs or small groups 
+    - chromebook supplement (rarely needed)
+
+
+##### What were your challenges or barriers you faced?
+
+- Teacher-centered environment is *safe*
+- Fear of the unknown/catastrophic failure... you have to give up a little bit of "control" and trust that the upside for learning efficiency is worth it 
+- Will they stay *on task*?  
+    - It will be easier to spot people who are off-task, but it doesn't mean there are more of them
+    - Move around the room, ask questions to keep people on task
+    - You might need a thicker skin about things that look off-task
+- Am I **inviting** distraction??
+    - Large class: Pat Buchanan seating arrangement
+    - Small class: close the laptops for a minute
+
+##### How do you set up the strategy with your students?
+
+- Especially in the beginning, I level with them.
+    - I explain that we're going to try something new (to me) because there is a lot of support in the education research that suggests this paradigm produces more efficient learning outcomes
+    - Invite them to be part of it... "Can we try this?"
+
+
+##### What do you do to get your students to engage in the way you want them to engage in learning?
+
+- Leave the room (honestly)
+    - My PhD advisor had an interest in active learning, and she shared advice (shared with her) to kick off the active learning and then excuse yourself for a minutes or two (get a drink of water, etc)
+    - Students stop waiting for your next instruction and turn to one another
+
+
+##### What worked well?
+
+- Worst case scenario almost never happens (one time a server went down and that was a problem...)
+
+##### How do you know you are really accomplishing what was intended for the strategy you were implementing?
+
+- When it's really going well, I don't have to be the center of attention all the time
+- Better still when active learning becomes cooperative
+    - students have accountability to one another
+
+##### What did the evidence of success look like? 
+
+- Progress, not perfection
+    - Strive for *better* engagement, not 100% engagement
+    - The right comparison is what you think students would be getting out of a comparable teacher-centered lecture
+- When it's going well it should be at least a little noisy
+
+
+##### What motivated you to do active learning in your class?
+
+- Teacher-centered environment is so inefficient... just because I have **said** it doesn't mean they have **learned** it
+- I might feel like *I'm* able to cover more ground, but it doesn't mean my *students* were covering it with me
+
+
+
+### Any tips or advice about implementing active learning strategies?
+
+1. Level with your students about why we're doing this
+2. Just try *something*, and do a little more each time
+3. Have some persistence: If it fails the first time, make a small change and try it again
+4. Share ideas with other instructors (same course or not)
+5. Use technology
+
+
+
+
